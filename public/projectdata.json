@@ -1,18 +1,44 @@
 [
     {
         "name": "Comfot-Tour",
-        "img": "https://www.pngitem.com/pimgs/m/585-5858646_family-travel-vector-hd-png-download.png",
+        "img": "https://i.ibb.co/8DgvD25/Comforttours.png",
         "livelink": "https://tour-app-a6532.web.app/",
-        "livelink": "https://tour-app-a6532.web.app/"
-    },
-    {
-        "name": "Super-Wheel",
-        "img": "https://img.freepik.com/free-vector/auto-mechanic-repairing-vehicle-engine-isolated-flat-vector-illustration-cartoon-man-fixing-checking-car-with-open-hood-garage_74855-8227.jpg?size=626&ext=jpg",
-        "livelink": "https://health-care-app-c532e.web.app/"
+        "des": "This Is A Tour Management System Whith User And Admin Panel ",
+        "tech": "React JS, Node JS, Express JS, MongoDB, Tailwind CSS, Firebase, heroku"
     },
     {
         "name": "Medicare",
-        "img": "https://media.istockphoto.com/vectors/online-medical-consultation-support-online-doctor-healthcare-services-vector-id1263867863?k=20&m=1263867863&s=612x612&w=0&h=xSD05hGU3VBlxxEu0XttSWv96Y-eoswe-G_Zk95jGoM=",
-        "livelink": "https://health-care-app-c532e.web.app/"
+        "img": "https://i.ibb.co/syFYV23/medicare.png",
+        "livelink": "https://health-care-app-c532e.web.app/",
+        "des": "This A Responsive Medicle Service App With A Simple Clean UI  ",
+        "tech": " HTML,CSS,React JS, Tailwind CSS, Firebase "
+    },
+    {
+        "name": "Responsive-Football",
+        "img": "https://i.ibb.co/f1M5v8R/responsive-football.png",
+        "livelink": "https://jubairzaman.github.io/Responsive-Football-landing-page/",
+        "des": "This Is A Responsive Football Team Mangement Website ",
+        "tech": "HTML, CSS, JavaScript,Bootstrap,Netlify"
+    },
+    {
+        "name": "Super-Wheel",
+        "img": "https://i.ibb.co/1nnTCt3/Superwheel.png",
+        "livelink": "https://carwebapp-2198d.web.app/",
+        "des": "This Is A Car Shop With User And Admin Panel ",
+        "tech": "React JS, Node JS, Express JS, MongoDB, Material UI, Firebase, heroku"
+    },
+    {
+        "name": "LeaderBoard",
+        "img": "https://i.ibb.co/V9XdQ3V/leaderboard.png",
+        "livelink": "jubairzaman.github.io/leader-board-css3/",
+        "des": "Simple One Page Student Leaderboard With Offerd Course ",
+        "tech": "HTML, CSS, JavaScript ,netlify"
+    },
+    {
+        "name": "Panda-Mart",
+        "img": "https://i.ibb.co/z8zG8xW/pandamart.png",
+        "livelink": "jubairzaman.github.io/panda-mart/",
+        "des": "Panda Mart Is A Ecommerce Website Ui With Multiple Products",
+        "tech": "HTML, CSS, JavaScript, netlify "
     }
 ]

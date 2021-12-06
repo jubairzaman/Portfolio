@@ -12,7 +12,7 @@ const TopNav = () => {
                     <Nav className="ms-auto">
                         <Link style={{ textDecoration: 'none' }} className="text-white mx-2" to="/home">Home</Link>
                         <Link style={{ textDecoration: 'none' }} className="text-white mx-2" to="/projects">Projects</Link>
-                        <Link style={{ textDecoration: 'none' }} className="text-white mx-2" to="/services">Services</Link>
+                        <Link style={{ textDecoration: 'none' }} className="text-white mx-2" to="/about">About</Link>
                         <Link style={{ textDecoration: 'none' }} className="text-white mx-2" to="/contact">Contact</Link>
 
                     </Nav>
