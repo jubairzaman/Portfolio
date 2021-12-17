@@ -30,14 +30,14 @@
     {
         "name": "LeaderBoard",
         "img": "https://i.ibb.co/V9XdQ3V/leaderboard.png",
-        "livelink": "jubairzaman.github.io/leader-board-css3/",
+        "livelink": "https://jubairzaman.github.io/leader-board-css3/",
         "des": "Simple One Page Student Leaderboard With Offerd Course ",
         "tech": "HTML, CSS, JavaScript ,netlify"
     },
     {
         "name": "Panda-Mart",
         "img": "https://i.ibb.co/z8zG8xW/pandamart.png",
-        "livelink": "jubairzaman.github.io/panda-mart/",
+        "livelink": "https://jubairzaman.github.io/panda-mart/",
         "des": "Panda Mart Is A Ecommerce Website Ui With Multiple Products",
         "tech": "HTML, CSS, JavaScript, netlify "
     }

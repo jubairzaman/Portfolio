@@ -21,11 +21,11 @@ const ProjectCard = (props) => {
                 <Card.Body>
                     <Card.Title>{name}</Card.Title>
                     <Card.Text style={{ height: "100px" }}>
-                        {des}
+                        <p>{des}</p>
                         <h6 className="mt-2"> Technology: {tech}</h6>
                     </Card.Text>
 
-                    <Button className="w-75" onClick={() => openInNewTab(`${livelink}`)} variant="primary">Live Link</Button>
+                    <Button className="w-75 mt-2" onClick={() => openInNewTab(`${livelink}`)} variant="primary">Live Link</Button>
 
                 </Card.Body>
             </Card>
